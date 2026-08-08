@@ -1,0 +1,6 @@
+{
+  "name": "Matrix Realty & Development",
+  "description": "Premier real estate development company. Explore luxury residential & commercial projects, calculate mortgages, book site visits, and consult AI concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
